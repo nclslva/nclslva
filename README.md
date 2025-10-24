@@ -15,13 +15,13 @@
 
 ---
 
-## 🌈 Sobre mim
+## Sobre mim
 - Escrevo e deixo pistas no caminho.
 - Nomeio variáveis para meu eu do futuro não me odiar.
 - Levemente caótico: eu mesmo crio o nó, eu mesmo desato.
 
 
-## 🔮 Stacks 
+## Stacks 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-1f1f1f?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-1f1f1f?style=for-the-badge&logo=typescript&logoColor=3178C6" />
@@ -34,7 +34,7 @@
 
 
 
-## 📈 Stats 
+## Stats 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=nclslva&show_icons=true&theme=tokyonight" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nclslva&theme=tokyonight" height="160" />
