@@ -1,21 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:7B68EE,100:00FFFF&height=220&section=header&text=%F0%9F%A5%B7%20mysterious%20coder%20%F0%9F%A5%B7&fontSize=42&fontAlign=50&fontAlignY=35&animation=twinkling&desc=Confiante%20%E2%80%A2%20Auto-consciente%20%E2%80%A2%20Levemente%20ca%C3%B3tico&descAlign=50&descAlignY=60)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Auto-deprecia%C3%A7%C3%A3o+com+timing+de+meme;Observacional+sobre+a+vida+dev;Entrega+R%C3%A1pida+e+Punchy%20%E2%9A%A1%EF%B8%8F;Gambiarra+com+consci%C3%AAncia%20%E2%9C%94%EF%B8%8F&center=true&vCenter=true&size=20&duration=2800&pause=900&color=00E5FF" alt="typing" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Confiante-8A2BE2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Auto--consciente-00FFFF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Ca%C3%B3tico%20de%20leve-FF7A00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Meme%20Timing-FF2D95?style=for-the-badge" />
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=nclslva&label=Visits&color=8A2BE2&style=for-the-badge" alt="views" />
-  <img src="https://img.shields.io/badge/Modo%20Neon-ON-FF2D95?style=for-the-badge" alt="neon" />
 </p>
 
 <p align="center">
