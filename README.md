@@ -2,9 +2,6 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Confiante-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Auto--consciente-00FFFF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ca%C3%B3tico%20de%20leve-FF7A00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Meme%20Timing-FF2D95?style=for-the-badge" />
   <img src="https://komarev.com/ghpvc/?username=nclslva&label=Visits&color=8A2BE2&style=for-the-badge" alt="views" />
 </p>
